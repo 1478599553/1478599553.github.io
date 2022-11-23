@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "73618dc477f45dcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebb7dae79f90bf2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cca7a210b68a550f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b750db6612a0c3ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e11cc58595c6491",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdccdbc09aba132e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "daea0b7c56c90863",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af846bd991cce197",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "86f91bb378eff5b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "932f072c93eb5a93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58992a0272cdb797",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c052de9e96f53f04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab7cbd0340d96978",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "de4541dfcff5d36c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cdccdbc09aba132e",
+  "lastOpenFiles": [
+    "c18e4728-acc7-4118-9946-6ada3fbc6156_350x240.jpg",
+    "articles/c18e4728-acc7-4118-9946-6ada3fbc6156_350x240.jpg.md",
+    "on-oop-zh_cn.md.md"
+  ]
+}
