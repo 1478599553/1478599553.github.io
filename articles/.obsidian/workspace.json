@@ -11,8 +11,12 @@
             "id": "cca7a210b68a550f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "on-oop-zh_cn.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "86f91bb378eff5b2",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "on-oop-zh_cn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "on-oop-zh_cn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "on-oop-zh_cn.md"
+              }
             }
           }
         ]
@@ -128,10 +137,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cdccdbc09aba132e",
+  "active": "cca7a210b68a550f",
   "lastOpenFiles": [
+    "on-oop-zh_cn.md.md",
     "c18e4728-acc7-4118-9946-6ada3fbc6156_350x240.jpg",
-    "articles/c18e4728-acc7-4118-9946-6ada3fbc6156_350x240.jpg.md",
-    "on-oop-zh_cn.md.md"
+    "articles/c18e4728-acc7-4118-9946-6ada3fbc6156_350x240.jpg.md"
   ]
 }
