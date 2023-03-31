@@ -1,18 +1,4 @@
-
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title>Draming's Homepage</title>
-        <link rel="stylesheet" href="css/home.css">
-        <link rel="stylesheet" href="css/mt.css">
-        <link rel="stylesheet" href="css/yinwang.css">
-        <link rel="stylesheet" href="css/tailwind/index.css">
-        
-        
-  
-    </head>
-    <style>
-      @charset "utf-8";
+@charset "utf-8";
 
 :root
 {
@@ -361,20 +347,51 @@ a
     transition: color ease-in-out .5s;
 }
 
-    </style>
-    <body class="container bg-gray-100">
-      <br></br>
-      <h1 class="paper text-center text-9xl text-gray-100 font-bold">Draming's Homepage</h1>
- 
-      <br></br>
-      <div class="outer">
-        <ul class="list-group paper-main">
-          
-            <li class="list-group-item title">
-                <div class="date">2323/3/31</div><br>
-                <a href="/articles/pl_misc-zh_cn.html">PL 杂学</a>
-            </li>
-    </ul>
-    </div>
-  </body>
-  </html>
+
+/* montserrat-regular - latin */
+
+@font-face
+{
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+    src: local(""),
+        url("../fonts/montserrat-v23-latin-regular.woff2") format("woff2"), /* Chrome 26+, Opera 23+, Firefox 39+ */
+        url("../fonts/montserrat-v23-latin-regular.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* montserrat-600 - latin */
+
+@font-face
+{
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    src: local(""),
+        url("../fonts/montserrat-v23-latin-600.woff2") format("woff2"), /* Chrome 26+, Opera 23+, Firefox 39+ */
+        url("../fonts/montserrat-v23-latin-600.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* montserrat-italic - latin */
+
+@font-face
+{
+    font-family: "Montserrat";
+    font-style: italic;
+    font-weight: 400;
+    src: local(""),
+        url("../fonts/montserrat-v23-latin-italic.woff2") format("woff2"), /* Chrome 26+, Opera 23+, Firefox 39+ */
+        url("../fonts/montserrat-v23-latin-italic.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* montserrat-600italic - latin */
+
+@font-face
+{
+    font-family: "Montserrat";
+    font-style: italic;
+    font-weight: 600;
+    src: local(""),
+        url("../fonts/montserrat-v23-latin-600italic.woff2") format("woff2"), /* Chrome 26+, Opera 23+, Firefox 39+ */
+        url("../fonts/montserrat-v23-latin-600italic.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
